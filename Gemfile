@@ -75,3 +75,5 @@ end
 gem 'will_paginate', '~>3.1.1'
 gem 'will_paginate-bootstrap'
 #this is needed to add bootstrap style to paginateion
+
+gem "font-awesome-rails"
