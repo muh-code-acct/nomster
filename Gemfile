@@ -79,4 +79,6 @@ gem 'will_paginate-bootstrap'
 gem "font-awesome-rails"
 gem 'devise'
 gem 'bcrypt', '~> 3.1.7'
+gem 'geocoder'
+gem 'figaro'
 
