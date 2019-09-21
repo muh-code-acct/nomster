@@ -81,4 +81,5 @@ gem 'devise'
 gem 'bcrypt', '~> 3.1.7'
 gem 'geocoder'
 gem 'figaro'
-
+gem 'carrierwave', '~>1.0'
+gem 'fog-aws'
