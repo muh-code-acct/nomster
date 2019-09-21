@@ -25,10 +25,11 @@
           title: 'Hello World!'
         });
       }
+      
     </script>
     
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTBYI0XCAsnNOwSRCH6m5ODQYqnIm23Qo&callback=initMap">
+    src= "https://maps.googleapis.com/maps/api/js?key=<%=ENV['GEOCODER_API_KEY']%>&callback=initMap">
     </script>
     
     <div id="map"></div>
